@@ -1,6 +1,6 @@
 Seventh task of the cyber security internship
 
-Browser Extension Cleanup & Performance Audit
+Browser Extension Cleanup & Performance Audit.
 
 Objective
 To learn how to identify and remove potentially harmful or unnecessary browser extensions, understand their impact on performance and privacy, and improve overall browsing experience.
